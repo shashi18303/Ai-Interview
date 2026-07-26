@@ -1,0 +1,94 @@
+{
+  "candidate_name": "Shashikumar",
+  "role": "Java Developer",
+  "skills": "java",
+  "timestamp": "20260726_150306",
+  "questions": [
+    {
+      "question": "How do you handle Java's memory management, and what are some common pitfalls to avoid when dealing with memory leaks in a large-scale Java application?",
+      "answer": "mmmm",
+      "score": 0,
+      "verdict": "Unacceptable",
+      "feedback": "The answer is empty and does not provide any relevant information, indicating a lack of knowledge or understanding of Java's memory management and common pitfalls to avoid."
+    },
+    {
+      "question": "Explain the difference between the '==' operator and the equals() method in Java, and provide an example of when you would use each.",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    },
+    {
+      "question": "Design a simple Java class to represent a Bank Account, including properties for account number, balance, and owner, and methods for deposit and withdrawal.",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    },
+    {
+      "question": "What are some best practices for using Java's Stream API to process large datasets, and how do you optimize performance when working with streams?",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    },
+    {
+      "question": "Describe the trade-offs between using Java's built-in synchronization mechanisms versus using a third-party concurrency library like Akka or Project Loom.",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    },
+    {
+      "question": "Write a Java method that takes a string as input and returns the first non-repeating character in the string, or null if no such character exists.",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    },
+    {
+      "question": "How do you approach debugging a complex Java application, and what tools or techniques do you use to identify and diagnose issues?",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    },
+    {
+      "question": "Explain the concept of dependency injection in Java, and provide an example of how you would use a framework like Spring or Guice to manage dependencies in a Java application.",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    },
+    {
+      "question": "Design a Java-based caching system that can store and retrieve objects based on a unique key, and discuss the considerations for implementing cache expiration and eviction policies.",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    },
+    {
+      "question": "What are some strategies for optimizing the performance of a Java-based web application, and how do you measure and analyze the impact of performance optimizations on the application's overall throughput and responsiveness?",
+      "answer": "",
+      "score": 0,
+      "verdict": "No answer given",
+      "feedback": "Candidate did not provide an answer to this question."
+    }
+  ],
+  "total_score": 0,
+  "max_score": 100,
+  "overall_rating": "Poor",
+  "strengths": [],
+  "weaknesses": [
+    "Java memory management",
+    "Java operators and methods",
+    "Java class design",
+    "Java Stream API",
+    "Java concurrency",
+    "Java debugging",
+    "dependency injection",
+    "Java caching systems",
+    "Java performance optimization"
+  ],
+  "recommendation": "The candidate needs to thoroughly review and study Java fundamentals, including memory management, operators, class design, and concurrency. They should also practice implementing common Java concepts, such as caching systems and performance optimization techniques. Additionally, the candidate should focus on developing their problem-solving skills and ability to communicate technical ideas effectively."
+}
