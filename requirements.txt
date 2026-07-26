@@ -1,0 +1,7 @@
+streamlit>=1.36
+python-dotenv>=1.0
+
+# Install only the SDK for the provider you set in LLM_PROVIDER (.env):
+groq>=0.9          # LLM_PROVIDER=groq  (free tier, fast Llama 3 models)
+openai>=1.30        # LLM_PROVIDER=openai
+google-generativeai>=0.7   # LLM_PROVIDER=gemini
